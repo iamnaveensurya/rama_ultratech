@@ -824,6 +824,7 @@ footer a:hover {
 .footer-bottom p {
     color: rgba(255, 255, 255, 0.6);
     font-size: 0.875rem;
+    padding-bottom: 50px;
 }
 
 /* =============== STICKY CALL BUTTONS =============== */
@@ -1155,7 +1156,8 @@ footer a:hover {
 
     .sticky-call-mobile {
         display: none;
-    }
+    }  
+   
 }
 @media (max-width: 768px) {
     .hero-content {
@@ -1182,4 +1184,5 @@ footer a:hover {
       align-items: stretch;
     }
   }
-  
+
+ 
